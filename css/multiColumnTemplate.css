@@ -109,12 +109,13 @@
     cursor: pointer;
 }
 .left_article {
-	background-color: #FFFFFF;
-	width: 60%;
-	float: left;
-	font-family: "Source Sans Pro";
-	color: #343434;
-	padding-bottom: 15px;
+    background-color: #FFFFFF;
+    width: 60%;
+    float: left;
+    font-family: "Source Sans Pro";
+    color: #343434;
+    padding-bottom: 15px;
+    padding-left: 250px;
 }
 .noDisplay {
 	display: none;
@@ -194,13 +195,9 @@
 */
     /* [disabled]max-height: 200px;
 */
-    width: 100%;
-    padding-top: 30px;
-    /* [disabled]padding-left: 19px;
-*/
-    padding-bottom: 30px;
-    height: 100%;
-    padding-right: px;
+    width: 110%;
+    height: 110%;
+    padding-left: 250px;
 }
 .left_half {
 	background-color: #52BAD5;
